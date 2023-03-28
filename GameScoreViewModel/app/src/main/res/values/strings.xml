@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game Score ViewModel</string>
+    <string name="team_a_name_text">Team A</string>
+    <string name="team_a_score_text">0</string>
+    <string name="add_one_point_text">+1</string>
+    <string name="team_b_score_text">0</string>
+    <string name="team_b_text">Team B</string>
+    <string name="game_over_text">Game over</string>
+</resources>
